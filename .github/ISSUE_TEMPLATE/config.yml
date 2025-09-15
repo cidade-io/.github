@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentação
+    url: https://github.com/almir/cidade_io_github/wiki
+    about: Consulte nossa documentação para encontrar respostas
+  - name: 💬 Discussões
+    url: https://github.com/almir/cidade_io_github/discussions
+    about: Participe das discussões da comunidade
+  - name: 🐛 Bug Report
+    url: https://github.com/almir/cidade_io_github/issues/new?template=bug_report.md
+    about: Reporte um bug usando nosso template
+  - name: ✨ Feature Request
+    url: https://github.com/almir/cidade_io_github/issues/new?template=feature_request.md
+    about: Sugira uma nova feature
+  - name: 🔧 Chore
+    url: https://github.com/almir/cidade_io_github/issues/new?template=chore.md
+    about: Tarefas de manutenção e melhorias
